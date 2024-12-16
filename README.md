@@ -1,6 +1,6 @@
 # NATA
 
-![banner](https://github.com/user-attachments/assets/0a999247-098b-4ba9-9126-45d8ccc17c86)
+![banner](https://pbs.twimg.com/profile_images/1868801309006049280/5v0VTnpZ_400x400.jpg)
 
 A Rust-based AI agent implementation using [rig](https://github.com/0xPlaygrounds/rig) for AI functionality, powering an autonomous social media presence on X (formerly Twitter).
 
